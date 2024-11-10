@@ -11,6 +11,7 @@ setup(
         "pandas",
         "numpy",
         "scikit-learn",
+        'pyYAML',
     ],
     entry_points={
         "console_scripts": [

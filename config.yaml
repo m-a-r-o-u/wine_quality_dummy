@@ -1,0 +1,8 @@
+# config.yaml
+model:
+  name: 'GradientBoostingClassifier'
+  params:
+    random_state: 42
+    n_estimators: 10000
+    learning_rate: 0.05
+
